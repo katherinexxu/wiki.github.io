@@ -1,0 +1,20 @@
+body {
+	background-color: #2D2424;} 
+
+h1 {
+	color:  #D88E8E;}
+p{
+	color:  #D88E8E; font-size: 25px;}
+
+h1,h2,h3{
+  color: maroon;
+  margin-left: 40px;
+  font-size: 60px;
+  font-family: "Copperplate", Helvetica, Sans-Serif;
+ }
+
+ .caption{
+ 	font-family: "Lucida Console", "Courier New", monospace; 
+ 	color:  #D88E8E
+
+ }
